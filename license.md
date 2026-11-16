@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download FiveM Steam Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/fivem-steam-edition-latest)
+[![Download FiveM Steam Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/eHfd7fatCe65i7UQ9)
 
 </div>
 
@@ -140,7 +140,7 @@
 
 <div align="center">
 
-[![Download FiveM Steam Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/fivem-steam-edition-latest)
+[![Download FiveM Steam Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/eHfd7fatCe65i7UQ9)
 
 </div>
 
@@ -316,7 +316,7 @@ Play GTA V multiplayer mods for free. **FiveM Steam Edition – Latest Version U
 
 <div align="center">
 
-[![Download FiveM Steam Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/fivem-steam-edition-latest)
+[![Download FiveM Steam Edition](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/eHfd7fatCe65i7UQ9)
 
 **Version 2.0.0** — Free FiveM mod platform. May 2026 update. Zero cost. No payment.
 
